@@ -1,5 +1,5 @@
 # Addicktion
-Projekt hét 
+Projekt hét :)
 
 Csapattagok:
  - Nyíri Sándor 
