@@ -1,3 +1,9 @@
 # Addiction
 Projekt hét 
-Cock song
+Csapattagok:
+ - Nyíri Sandor Dániel
+ - Szabó Dávid
+ - Tóth Tamás
+ - Tóth Zalán 🐓
+ - Vértesszőlős Márton
+ - Vlajk Sándor
