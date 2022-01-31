@@ -1,7 +1,8 @@
 # Addiction
-##Projekt hét 
+Projekt hét 
+
 Csapattagok:
- - Nyíri Sandor Dániel
+ - Nyíri Sándor 
  - Szabó Dávid
  - Tóth Tamás
  - Tóth Zalán
