@@ -7,7 +7,16 @@ body {
     font-style: normal;
     font-family: sans-serif;
 }
-
+#eddig{
+    color: green;
+    text-align: center;
+    font-size: 55px;
+}
+#missh{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
 p {
     font-size: 18px;
     font-family: sans-serif;
