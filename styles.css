@@ -20,6 +20,12 @@ h1 {
     color: #66FCf1;
 }
 
+h2 {
+    font-size: 25px;
+    padding-top: 2%;
+    color: #66FCf1;
+}
+
 .kep {
     border-radius: 20px;
     width: 100%;
@@ -50,6 +56,7 @@ h1 {
     background-color: rgba(11, 12, 16, 0.3);
     color: #c5c6c7;
     font-weight: bold;
+    padding-top: 5px;
 }
 
 .navbarcolor {
