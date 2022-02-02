@@ -2,10 +2,10 @@
 
 <p>A szerencsejáték tárgykörében érdemes figyelmet szentelni 
 a videojátékok világának, amely a szerencsejátékok újabban 
-kibontakozó színterének tekinthető. Néhány esetben a játékokban megjelenő tartalom ugyan nem nevezhető szerencsejátéknak, de annak számos elemét tartalmazza, ennek 
+kibontakozó színterének tekinthető. Néhány esetben a játékokban megjelenő tartalom ugyan nem nevezhető szerencsejátéknak, de annak számos elemét tartalmazza, ennek 
 köszönhetően pedig olykor meglehetősen nehéz eldönteni, 
 pontosan mivel is találkozik a felhasználó.<br>
 Máskor egészen 
-nyilvánvaló módon jelenik meg a szerencsejáték a videojátékba ágyazva vagy arra ráépítve</p>
+nyilvánvaló módon jelenik meg a szerencsejáték a videojátékba ágyazva vagy arra ráépítve</p>
 
 xd
