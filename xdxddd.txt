@@ -7,5 +7,11 @@ köszönhetően pedig olykor meglehetősen nehéz eldönteni,
 pontosan mivel is találkozik a felhasználó.<br>
 Máskor egészen 
 nyilvánvaló módon jelenik meg a szerencsejáték a videojátékba ágyazva vagy arra ráépítve</p>
-
-xd
+<h2>Videójáték-függőség</h2>
+<li>A BNO definíciója szerint</li>
+<p>a játékzavar akkor áll fenn, ha a játék tartós vagy rendszeresen visszatérő módon van jelen, amely tevékenység megjelenhet offline, illetve online
+formában is. Továbbá a játékos elveszíti a kontrolt a játékmódja felett, a
+játékkal töltött idő, gyakoriság, valamint befejezés tekintetében. A játéknak
+növekvő prioritása tapasztalható az élet egyéb területeivel szemben, és a
+játékos a negatív következmények ellenére is folytatja a játékot. A tünetek
+12 hónapon át fennállnak vagy rendszeresen visszatérnek (WHO, 2018).</p>
