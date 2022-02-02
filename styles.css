@@ -1,14 +1,13 @@
+
+
 html {
     scroll-behavior: smooth;
 }
-.behuzas{
-    padding-left: 7%;
-    padding-right: 7%;
-}
 body {
-    background-color: whitesmoke;
+    background-color: #1f2833;
     font-style: normal;
     font-family: sans-serif;
+    
 }
 p {
     font-size: 18px;
@@ -17,10 +16,14 @@ p {
 }
 h1{
     padding-top: 2%;
-    padding-left: 5%;
     font-weight: bold;
+    color: #66FCf1;
 }
-
+.kep{
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+}
 .gotopbtn {
     position: fixed;
     width: 50px;
@@ -37,24 +40,17 @@ h1{
     color: white;
     font-size: 22px;
 }
-.bal{
-    border: 2px solid rgba(160, 211, 65, 0.25);
+
+.szovegek{
+
     border-radius: 10px;
-    background-color: rgba(160, 211, 65, 0.25); 
-    width: 45%;
     font-family: 'Times New Roman', Times, serif;
-    padding: 10px;
+    margin-bottom: 10px;
+    background-color:rgba(11, 12, 16, 0.3);
+    color: #c5c6c7;
+    font-weight: bold;
 }
-.jobb{
-    float: right;
-    border: 2px solid rgba(160, 211, 65, 0.25);
-    border-radius: 10px;
-    background-color: rgba(160, 211, 65, 0.25); 
-    width: 45%;
-    font-family: 'Times New Roman', Times, serif;
-    padding: 10px;
-    
-}
+
 * {
     box-sizing: border-box;
     margin: 0;
