@@ -8,3 +8,8 @@ Csapattagok:
  - Tóth Zalán 👑
  - Vértessy Márton
  - Vlajk Sándor
+
+
+Források/használt oldalak:
+http://www.opai-addikt.hu/files/Tajekoztato_fuzet_szakembereknek.pdf
+wikiépdia xdxd
