@@ -17,3 +17,4 @@ wikiépdia xdxd
 
 megjegyzés:
 Ha nem találja elég jónak a projektünket, az azért van, mert épp függtünk ahelyett, hogy ezt csináltuk volna.
+xdddddd
